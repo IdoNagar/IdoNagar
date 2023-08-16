@@ -11,7 +11,7 @@
 
 <h2>✈️ Airport Project:</h2>
 
-- [Airport Project](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Airport Project](https://github.com/IdoNagar/Airport-Project)
 (SQL + Excel)
 
 <h2>📷 Linkedin:</h2>
