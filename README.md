@@ -12,6 +12,7 @@
 <h2>✈️ Airport Project:</h2>
 
 - [Airport Project](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- SQL + Excel
 
 <h2>📷 Linkedin:</h2>
 
